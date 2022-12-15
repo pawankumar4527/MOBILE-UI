@@ -367,6 +367,10 @@
     .back{
         display: none;
 }
+    .fa-plus-circle{
+    position: relative;
+    left: 119px;
+    }
     }
 
     
